@@ -1,6 +1,7 @@
 Grazioso Salvare Dashboard Project
 
 Overview
+
 This project involves building an interactive dashboard for Grazioso Salvare, allowing the company to visualize animal shelter data dynamically. The dashboard provides functionalities such as filtering rescue types, displaying animal breed distribution through a pie chart, and mapping animal geolocations.
 Required Functionality
 Achieved Features:
